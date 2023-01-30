@@ -1,0 +1,50 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  h1{
+    margin-left: 30%;
+  }
+  input[type="text"] {
+    padding: 10px;
+    font-size: 18px;
+    width: 50%;
+    height: 6%;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    margin-top: 2%;
+  }
+  .timeinput{
+    padding: 10px;
+    font-size: 18px;
+    width: 50%;
+    height: 6%;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    margin-top: 0.5%;
+    
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: lightblue;
+    margin-left: 20%;
+    margin-right: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
